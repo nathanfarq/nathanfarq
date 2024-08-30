@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Nathan Farquharson (@nathanfarq)
 
 - **Connect with me:**
-  - [Twitter](https://x.com/nathanfarq) (It will always be Twitter to me, sorry)
-  - [Instagram](https://www.instagram.com/nathanfarq/) (Slightly less professional, but more fun!)
-  - [LinkedIn](https://www.linkedin.com/in/nathan-farquharson/) (As a business student, networking is second nature)
+  - [Twitter](https://x.com/nathanfarq)
+  - [Instagram](https://www.instagram.com/nathanfarq/)
+  - [LinkedIn](https://www.linkedin.com/in/nathan-farquharson/)
 
 ## 🚀 About Me
 
